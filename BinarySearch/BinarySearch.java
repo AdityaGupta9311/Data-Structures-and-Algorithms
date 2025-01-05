@@ -19,8 +19,8 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 22, 33, 43, 55, 66, 78, 78, 990, 999, 1111 };
-        int ans = search(arr, 111);
+        int arr[] = { 1, 22, 33, 43, 55, 66, 78, 78, 990, 999, 1111,1223 };
+        int ans = search(arr, 1111);
         System.out.println(ans);
     }
 }
