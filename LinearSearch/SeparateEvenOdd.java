@@ -13,8 +13,8 @@ public class SeparateEvenOdd {
             arr[i] = s1.nextInt();
         }
 
-        int[] even;
-        int[] odd;
+        // int[] even;
+        // int[] odd;
 
         for (int i : arr) {
             if (i % 2 == 0) {
