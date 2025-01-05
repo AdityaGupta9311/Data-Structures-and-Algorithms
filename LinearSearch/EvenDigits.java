@@ -1,5 +1,3 @@
-package BinarySearch;
-
 public class EvenDigits {
     static int findNum(int[] nums) {
         int count = 0;

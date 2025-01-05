@@ -1,5 +1,3 @@
-package BinarySearch;
-
 public class MinimumNumber {
 
     static int mini(int[] arr) {

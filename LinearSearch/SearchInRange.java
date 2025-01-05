@@ -1,5 +1,3 @@
-package BinarySearch;
-
 public class SearchInRange {
 
     static int search(int[] arr, int start, int end, int target) {

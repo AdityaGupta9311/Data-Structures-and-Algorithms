@@ -1,5 +1,3 @@
-package LinearSearch;
-
 public class MaxValue {
     public static void main(String[] args) {
         int[] arr = {1,2,3,454,554,223,5443,543};
