@@ -32,8 +32,8 @@ public class OrderAgnostic {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 };
-        // int arr[] = { 1, 22, 33, 43, 55, 66, 78, 78, 990, 999, 1111,1223 };
+        // int[] arr = { 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 };
+        int arr[] = { 1, 22, 33, 43, 55, 66, 78, 78, 990, 999, 1111,1223 };
         int ans = agnosticSearch(arr, 1);
         System.out.println(ans);
     }
